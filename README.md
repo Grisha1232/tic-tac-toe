@@ -12,4 +12,4 @@ to run
 ```
 ./build/src/tic-tac-toe.app
 ```
-or
+
